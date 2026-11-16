@@ -1,0 +1,1 @@
+Place your own video in videos/ and configure its path in src/data/loveContent.ts. MP4 (H.264/AAC) is recommended for broad browser support. The video plays with its embedded audio in the dedicated dashboard video screen.
