@@ -247,7 +247,7 @@ export const loveContent: LoveContent = {
     response2: "Mwah! A million kisses coming your way. 💋",
   },
   video: {
-    src: "public/media/videos/Ahista Ahista - Kazinama & Musarrat Nazir Full Audio Song - Musarrat Nazir.mp3",
+    src: "/media/videos/our-special-video.mp4",
     title: "A Little Something For You, Baby ❤️",
     subtitle: "A little surprise, with all my love. ❤️",
     loop: false,
